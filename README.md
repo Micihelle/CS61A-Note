@@ -20,7 +20,7 @@ CS61系列课的特点
 - 课程作业：课程网站会有每个作业对应的文档链接以及代码框架的下载链接。  
 
 ## 社区资源
-[关于CS系列课程入门问题](https://github.com/PointBreaker/61abc-notes) ：建议第一次学习UCB基础课程的人看
+[关于CS系列课程入门问题](https://github.com/PointBreaker/61abc-notes) ：建议第一次学习UCB基础课程的人可以看看
 [2020 fall-solution参考](https://github.com/PKUFlyingPig/CS61A):尤其是涉及数学计算思维 算法的都可以参考，虽然不同学期的版本在内容上有所差异，但是核心逻辑思维不变。  
 
 
