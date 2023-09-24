@@ -26,10 +26,9 @@ CS61系列课的特点
 
 ## 社区资源
 [关于CS系列课程入门问题](https://github.com/PointBreaker/61abc-notes)  
-[2020 fall 资源汇总-北大学长](https://github.com/PKUFlyingPig/CS61A):尤其是涉及数学计算思维 算法的都可以参考，虽然不同学期的版本在内容上有所差异，但是核心逻辑思维不变。  
+[2020 fall-solution参考](https://github.com/PKUFlyingPig/CS61A):尤其是涉及数学计算思维 算法的都可以参考，虽然不同学期的版本在内容上有所差异，但是核心逻辑思维不变。  
 [2022 summer disc反馈](https://github.com/YinY1/CS61A-su22)  
 
 
-**最新学期进度**
-[2022 Fall sulution反馈](https://cs61a.org/)
+**最新学期进度**：[https://cs61a.org/]
 
