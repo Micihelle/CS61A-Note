@@ -1,6 +1,7 @@
 # CS61A: Structure and Interpretation of Computer Programs
 
 之前前半部分写的是2020fall 后半段时间改成了2022fall 所以代码可能很乱
+而且也没写完只写到了hw04..
 
 
 ## 常用页面
