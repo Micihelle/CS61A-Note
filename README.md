@@ -1,6 +1,6 @@
 # CS61A: Structure and Interpretation of Computer Programs
 
-之前前半部分写的是2020fall 后半段部分改成了2022fall 所以代码可能很乱
+之前前半部分写的是2020fall 后半段部分改成了2022fall 加上学习的时候我基本就是个小白，所以有些代码和注释可能很乱
 而且也没写完只写到了hw04..(因为没有管理好自己的时间 有环境的原因也有自己的原因)(/(ㄒoㄒ)/~~) 后续找时间至少把project4做了
 
 
