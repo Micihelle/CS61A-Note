@@ -1,6 +1,6 @@
 # CS61A: Structure and Interpretation of Computer Programs
 
-之前前半部分写的是2020fall 后半段时间改成了2022fall 所以代码可能很乱
+之前前半部分写的是2020fall 后半段部分改成了2022fall 所以代码可能很乱
 而且也没写完只写到了hw04..(因为没有管理好自己的时间 有环境的原因也有自己的原因)
 
 
@@ -19,8 +19,7 @@ CS61系列课的特点
     - 最近最全开放[2021 fall](https://inst.eecs.berkeley.edu/~cs61a/fa21/)  
     - 最近开放[2022 Summer](https://inst.eecs.berkeley.edu/~cs61a/su22/)  :  
         - 开放情况 project 部分模块不完整、disc02开始没有对应的pdf文件下载链接 不过不影响在网页内进行交互DEBUG
-    - 最新学期[2022 Fall](https://cs61a.org/)
-        - 开放情况 截止到10/5 给出lab06 的solution
+    - **最新学期** https://cs61a.org/
 - 课程视频:  [blibli-fall-2020](https://www.bilibili.com/video/BV1s3411G7yM?spm_id_from=333.337.search-card.all.click&vd_source=7129aefe321aedba4d040034cfb5479a)
 - 课程教材：<http://composingprograms.com/>  
 - 课程作业：课程网站会有每个作业对应的文档链接以及代码框架的下载链接。  
@@ -29,6 +28,4 @@ CS61系列课的特点
 [关于CS系列课程入门问题](https://github.com/PointBreaker/61abc-notes)  
 [2020 fall-solution参考](https://github.com/PKUFlyingPig/CS61A):尤其是涉及数学计算思维 算法的都可以参考，虽然不同学期的版本在内容上有所差异，但是核心逻辑思维不变。  
 
-
-**最新学期进度**：[https://cs61a.org/]
 
